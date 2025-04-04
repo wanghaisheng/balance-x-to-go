@@ -1,7 +1,6 @@
-quick website starter
+便秘 
+痛经
+更年期
 
 
-build website in 5 minutes
-
-
-powered by websim,germini,claude
+tcm balance test
